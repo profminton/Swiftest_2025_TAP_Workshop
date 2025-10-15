@@ -14,3 +14,9 @@
 !basic_simulation
 !basic_simulation/.gitattributes
 !basic_simulation/basic_simulation.ipynb
+
+!compiling_local/
+!compiling_local/compiling_local.md
+
+!user_defined_forces
+!user_defined_forces/user_defined_forces.md
