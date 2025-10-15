@@ -10,3 +10,7 @@
 # Folders must be whitelisted first before their contents
 !_images/
 !_images/swiftest_social_preview.svg
+
+!Basic-Simulation
+!Basic-Simulation/.gitattributes
+!Basic-Simulation/basic_simulation.ipynb
