@@ -1,0 +1,12 @@
+# DM note: 
+# My preference for .gitignore files is the whitelist model, in which we ignore everything by default and only track what is explicitly listed. 
+
+# Ignore everything
+*
+# Except these files and patterns
+!.gitignore
+!README.md
+
+# Folders must be whitelisted first before their contents
+!_images/
+!_images/swiftest_social_preview.svg
