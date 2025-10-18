@@ -48,7 +48,7 @@ $ jupyter lab &
 ```
 Be sure to activate the `TAP_Swiftest` kernel.
 
-We will then work through the following user guides and examples:
+We will work through the following user guides and examples:
 
 1. [Basic simulation](https://swiftest.readthedocs.io/en/latest/user-guide/basic-simulation.html)
 2. [Detailed simulation setup](https://swiftest.readthedocs.io/en/latest/user-guide/detailed-simulation-setup.html)
@@ -62,7 +62,7 @@ Now clone the [Swiftest GitHub repository](https://github.com/MintonGroup/swifte
 
 Next, you will need to prepare your machine for development. See [here](https://swiftest.readthedocs.io/en/latest/getting-started-guide/index.html#required-dependencies) for detailed instructions on installing dependencies and tools on various platforms.
 
-We will then work through the following user guides and examples:
+We will work through the following user guides and examples:
 
 1. [Using the standalone executable](https://swiftest.readthedocs.io/en/latest/user-guide/standalone-executable.html)
 2. [Building Swiftest from source](https://swiftest.readthedocs.io/en/latest/getting-started-guide/index.html#building-swiftest-from-source)
