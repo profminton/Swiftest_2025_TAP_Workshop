@@ -11,7 +11,6 @@ This two hour workshop is organized into two parts. In hour 1, I will introduce 
 3. Customize the Fortran backend and compile the project locally.
 4. Submit issues, feature requests, documentation and examples, and bugfixes to GitHub. 
 
-
 ## Instructions
 Detailed instructions on how to install Swiftest can be found in the online document pages for Swiftest [here](https://swiftest.readthedocs.io/en/latest/getting-started-guide/index.html). As I will be showcasing some of the Swiftest functionality inside a Jupyterlab Notebook, I have provide some more specific instructions for setting up the environment here.
 
@@ -47,8 +46,14 @@ Then we can fire up Jupyter lab and run simulations.
 ```bash
 $ jupyter lab &
 ```
-
 Be sure to activate the `TAP_Swiftest` kernel.
+
+We will then work through the following user guides and examples:
+
+1. [Basic simulation](https://swiftest.readthedocs.io/en/latest/user-guide/basic-simulation.html)
+2. [Detailed simulation setup](https://swiftest.readthedocs.io/en/latest/user-guide/detailed-simulation-setup.html)
+3. [Using SHTOOLS to model non-spherical central bodies](https://swiftest.readthedocs.io/en/latest/user-guide/gravitational-harmonics.html)
+4. [Modeling collisional fragmentation](https://github.com/MintonGroup/swiftest/tree/main/examples/Fragmentation)
 
 ### Hour 2: Install a development environment
 For this section we will leave Jupyter Lab behind and move to a proper IDE. My preferred IDE is [Visual Studio Code](https://code.visualstudio.com/download), with the following extensions: C/C++ Extension Pack, Python and Python Debugger, Modern Fortran, Remote Development.
@@ -57,3 +62,11 @@ Now clone the [Swiftest GitHub repository](https://github.com/MintonGroup/swifte
 
 Next, you will need to prepare your machine for development. See [here](https://swiftest.readthedocs.io/en/latest/getting-started-guide/index.html#required-dependencies) for detailed instructions on installing dependencies and tools on various platforms.
 
+We will then work through the following user guides and examples:
+
+1. [Using the standalone executable](https://swiftest.readthedocs.io/en/latest/user-guide/standalone-executable.html)
+2. [Building Swiftest from source](https://swiftest.readthedocs.io/en/latest/getting-started-guide/index.html#building-swiftest-from-source)
+3. [Including custom forces](https://swiftest.readthedocs.io/en/latest/user-guide/custom-forces.html)
+4. [Contributing to Swiftest](https://swiftest.readthedocs.io/en/latest/contributing.html)
+
+> Note: This is my first time running a workshop like this, so I will be learning as much as you! Currently the contribution guide is empty, and I will be using our experience to help write it, so stay tuned!  

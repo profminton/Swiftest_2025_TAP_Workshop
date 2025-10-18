@@ -11,12 +11,14 @@
 !_images/
 !_images/swiftest_social_preview.svg
 
-!basic_simulation
+!basic_simulation/
 !basic_simulation/.gitattributes
 !basic_simulation/basic_simulation.ipynb
 
 !compiling_local/
 !compiling_local/compiling_local.md
 
-!user_defined_forces
-!user_defined_forces/user_defined_forces.md
+!user_defined_forces/
+!basic_simulation/.gitattributes
+!user_defined_forces/user_defined_forces.ipynb
+!user_defined_forces/swiftest_user.f90
